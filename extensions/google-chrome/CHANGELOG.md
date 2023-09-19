@@ -1,4 +1,5 @@
 # Google Chrome Changelog
+
 ## [New shortcut] - 2023-09-18
 
 - Add shortcut for make quick quicklinks when searching tabs.
